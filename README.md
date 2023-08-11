@@ -64,5 +64,5 @@ Para usar o algoritmo, navegue até a src e execute os arquivos filtro.py para c
 
 ## Observações
 
-* O mensagens.py não está enviando as mensagens para os clientes, apenas abrindo a conversa. Para enviar, basta descomentar a lina 22 do arquivo
+* O mensagens.py não está enviando as mensagens para os clientes, apenas abrindo a conversa. Para enviar, basta descomentar a linha 22 do arquivo
 * Como as planilhas tinha informações pessoais dos clientes, tive que obviamente modificálas com numeros aleatorios, mas o codigo irá funcionar normalmente com dados reais.
